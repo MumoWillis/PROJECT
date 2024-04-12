@@ -1,0 +1,81 @@
+/*styling the navigation bar*/
+.navbar {
+    background-color: #333; 
+    padding: 10px 0; 
+    border-radius: 20px; 
+  margin: 10px 80px; 
+  display: flex; 
+  justify-content: space-between;
+}
+  
+  
+  .nav-list {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+  }
+  
+  .nav-item {
+    display: inline-block; 
+    margin-right: 20px; 
+  }
+  
+  .nav-item a {
+    color: #fff; 
+    text-decoration: none; 
+    padding: 10px; 
+  }
+  
+  .nav-item a:hover {
+    background-color: #555; 
+  }
+
+  /*styling the search button and container*/
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.search-box {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    width: 900px;
+    font-size: 16px;
+}
+.search-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+/*Changing the background of the website*/
+.background{
+    background-color: #BDB5D5; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: #fff; 
+    font-family: Arial, sans-serif;
+    margin: 0; 
+    padding: 0; 
+    height: 100vh;
+    justify-content:center;
+    align-items: center;
+    
+}
+.img1{
+    height: 500px;
+    width: 500px;
+    
+
+}

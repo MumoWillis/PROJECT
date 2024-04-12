@@ -1,0 +1,275 @@
+{
+    "stock":[ 
+    {
+      "category": "trousers",
+      "stock_number": "TR001",
+      "description": "Slim-fit black jeans",
+      "size": "M",
+      "image_url": "imgs2/download.jpeg",
+      "in_stock": 23,
+      "price": "2.99$"
+    },
+    {
+      "category": "shirts",
+      "stock_number": "SH002",
+      "description": "Striped cotton shirt",
+      "size": "L",
+      "image_url": "imgs2/download (1).jpeg",
+      "in_stock": 13,
+      "price": "1.99$"
+    },
+    {
+      "category": "t-shirts",
+      "stock_number": "TS003",
+      "description": "Graphic print t-shirt",
+      "size": "S",
+      "image_url": "imgs2/download (2).jpeg",
+      "in_stock": 16,
+      "price": "2.99$"
+    },
+    {
+      "category": "jackets",
+      "stock_number": "JK004",
+      "description": "Waterproof windbreaker",
+      "size": "XL",
+      "image_url": "imgs2/download (3).jpeg",
+      "in_stock": 14,
+      "price": "7.99$"
+    },
+    {
+      "category": "bags",
+      "stock_number": "BG005",
+      "description": "Canvas backpack",
+      "size": "One Size",
+      "image_url": "imgs2/download (4).jpeg",
+      "in_stock": 24,
+      "price": "3.99$"
+    },
+  
+    {
+      "category": "trousers",
+      "stock_number": "TR002",
+      "description": "Baggy cargo pants",
+      "size": "M",
+      "image_url": "imgs2/download (5).jpeg",
+      "in_stock": 19,
+      "price": "2.99$"
+    },
+    {
+      "category": "shirts",
+      "stock_number": "SH023",
+      "description": "Checkers flannel shirt",
+      "size": "L",
+      "image_url": "imgs2/download (6).jpeg",
+      "in_stock": 19,
+      "price": "2.99$"
+    },
+    {
+      "category": "t-shirts",
+      "stock_number": "TS0234",
+      "description": "V neck t shirt",
+      "size": "S",
+      "image_url": "imgs2/download (7).jpeg",
+      "in_stock": 22,
+      "price": "2.99$"
+    },
+    {
+      "category": "jackets",
+      "stock_number": "JK3434",
+      "description": "Leather jacket",
+      "size": "XL",
+      "image_url": "imgs2/download (8).jpeg",
+      "in_stock": 15,
+      "price": "17.99$"
+      
+    },
+    {
+      "category": "bags",
+      "stock_number": "BG657",
+      "description": "Monkey bag",
+      "size": "One Size",
+      "image_url": "imgs2/download (9).jpeg",
+      "in_stock": 12,
+      "price": "14.99$"
+    },
+    {
+      "category": "trousers",
+      "stock_number": "TR001333",
+      "description": "Vintage baggy pants",
+      "size": "M",
+      "image_url": "imgs2/download (10).jpeg",
+      "in_stock": 18,
+      "price": "6.99$"
+    },
+    {
+      "category": "shirts",
+      "stock_number": "SH03434",
+      "description": "checkered cotton shirt",
+      "size": "L",
+      "image_url": "imgs2/download (11).jpeg",
+      "in_stock": 17,
+      "price": "13.99$"
+    },
+    {
+      "category": "t-shirts",
+      "stock_number": "TS004343",
+      "description": "Polo shirt",
+      "size": "S",
+      "image_url": "imgs2/download (12).jpeg",
+      "in_stock":10,
+      "price": "24.99$"
+    },
+    {
+      "category": "jackets",
+      "stock_number": "JK00224",
+      "description": "College jacket",
+      "size": "XL",
+      "image_url": "imgs2/images.jpeg",
+      "in_stock": 5,
+      "price": "12.99$"
+    },
+    {
+      "category": "bags",
+      "stock_number": "BG004345",
+      "description": "Tote bag",
+      "size": "One Size",
+      "image_url": "imgs2/download (13).jpeg",
+      "in_stock": 18,
+      "price": "2.99$"
+    },
+    {
+      "category": "trousers",
+      "stock_number": "TR0201",
+      "description": "Sweatpants",
+      "size": "M",
+      "image_url": "imgs2/download (14).jpeg",
+      "in_stock": 3,
+      "price": "8.99$"
+    },
+    {
+      "category": "shirts",
+      "stock_number": "SH023202",
+      "description": "Chambary shirt",
+      "size": "L",
+      "image_url": "imgs2/download (15).jpeg",
+      "in_stock": 0,
+      "price": "7.99$"
+    },
+    {
+      "category": "t-shirts",
+      "stock_number": "TS01103",
+      "description": "Crewneck t shirt",
+      "size": "S",
+      "image_url": "imgs2/download (16).jpeg",
+      "in_stock": 12,
+      "price": "4.99$"
+    },
+    {
+      "category": "jackets",
+      "stock_number": "JK03204",
+      "description": "Denim jacket",
+      "size": "XL",
+      "image_url": "imgs2/download (17).jpeg",
+      "in_stock": 14,
+      "price": "5.99$"
+    },
+    {
+      "category": "bags",
+      "stock_number": "BG004445",
+      "description": "Statchel",
+      "size": "One Size",
+      "image_url": "imgs2/download (18).jpeg",
+      "in_stock": 9,
+      "price": "24.99$"
+    },
+    {
+      "category": "trousers",
+      "stock_number": "TR00401",
+      "description": "Black chinos",
+      "size": "M",
+      "image_url": "imgs2/download (19).jpeg",
+      "in_stock":12,
+      "price": "6.99$"
+    },
+    {
+      "category": "shirts",
+      "stock_number": "SH02302",
+      "description": "Henley shirt",
+      "size": "L",
+      "image_url": "imgs2/images (1).jpeg",
+      "in_stock": 6,
+      "price": "7.99$"
+    },
+    {
+      "category": "t-shirts",
+      "stock_number": "TS01103",
+      "description": "Half v",
+      "size": "S",
+      "image_url": "imgs2/download (20).jpeg",
+      "in_stock": 2,
+      "price": "2.99$"
+    },
+    {
+      "category": "jackets",
+      "stock_number": "JK012304",
+      "description": "Bomber jacket",
+      "size": "XL",
+      "image_url": "imgs2/images (2).jpeg",
+      "in_stock": 17,
+      "price": "12.99$"
+    },
+    {
+      "category": "bags",
+      "stock_number": "BG0997805",
+      "description": "Messenger bag",
+      "size": "One Size",
+      "image_url": "imgs2/download (21).jpeg",
+      "in_stock":7,
+      "price": "22.99$"
+    },
+    {
+      "category": "trousers",
+      "stock_number": "TR55001",
+      "description": "Coudroys",
+      "size": "M",
+      "image_url": "imgs2/images (3).jpeg",
+      "in_stock": 24,
+      "price": "12.99$"
+    },
+    {
+      "category": "shirts",
+      "stock_number": "SH044402",
+      "description": "Oxford shirts",
+      "size": "L",
+      "image_url": "imgs2/images (4).jpeg",
+      "in_stock": 12,
+      "price": "12.99$"
+    },
+    {
+      "category": "t-shirts",
+      "stock_number": "TS006543",
+      "description": "Raglan sleeve",
+      "size": "S",
+      "image_url": "imgs2/download (22).jpeg",
+      "in_stock": 22,
+      "price": "5.99$"
+    },
+    {
+      "category": "jackets",
+      "stock_number": "JK02304",
+      "description": "Parka",
+      "size": "XL",
+      "image_url": "imgs2/images (5).jpeg",
+      "in_stock": 16,
+      "price": "23.99$"
+    },
+    {
+      "category": "bags",
+      "stock_number": "BG55005",
+      "description": "Duffel",
+      "size": "One Size",
+      "image_url": "imgs2/download (23).jpeg",
+      "in_stock": 10,
+      "price": "45.99$"
+    }
+  ]}
