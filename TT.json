@@ -1,5 +1,5 @@
 {
-    "stock":[ 
+    "stock":[
     {
       "category": "trousers",
       "stock_number": "TR001",
@@ -271,5 +271,94 @@
       "image_url": "imgs2/download (23).jpeg",
       "in_stock": 10,
       "price": "45.99$"
-    }
-  ]}
+    },
+    {
+      "category": "trousers",
+      "stock_number": "TR5505451",
+      "description": "Baggy blue jeans",
+      "size": "M",
+      "image_url": "imgs2/download (24).jpeg",
+      "in_stock": 24,
+      "price": "8.99$"
+    },
+    {
+      "category": "shirts",
+      "stock_number": "SH0422322",
+      "description": "Official white shirt",
+      "size": "L",
+      "image_url": "imgs2/images (6).jpeg",
+      "in_stock": 12,
+      "price": "6.99$"
+    },
+    {
+      "category": "t-shirts",
+      "stock_number": "TS04743",
+      "description": "Half-J",
+      "size": "S",
+      "image_url": "imgs2/images (7).jpeg",
+      "in_stock": 22,
+      "price": "13.99$"
+    },
+    {
+      "category": "jackets",
+      "stock_number": "JK02304",
+      "description": "Biker jacket",
+      "size": "XL",
+      "image_url": "imgs2/download (28).jpeg",
+      "in_stock": 16,
+      "price": "22.99$"
+    },
+    {
+      "category": "bags",
+      "stock_number": "BG55005",
+      "description": "Travelling bag",
+      "size": "One Size",
+      "image_url": "imgs2/download (30).jpeg",
+      "in_stock": 10,
+      "price": "70.99$"
+    },
+    {
+      "category": "trousers",
+      "stock_number": "TR55001",
+      "description": "Khaki brown trousers",
+      "size": "M",
+      "image_url": "imgs2/download (25).jpeg",
+      "in_stock": 24,
+      "price": "6.99$"
+    },
+    {
+      "category": "shirts",
+      "stock_number": "SH044402",
+      "description": "Sweatshirt",
+      "size": "L",
+      "image_url": "imgs2/download (26).jpeg",
+      "in_stock": 12,
+      "price": "8.99$"
+    },
+    {
+      "category": "t-shirts",
+      "stock_number": "TS006543",
+      "description": "Pullneck sweater",
+      "size": "S",
+      "image_url": "imgs2/download (27).jpeg",
+      "in_stock": 22,
+      "price": "7.99$"
+    },
+    {
+      "category": "jackets",
+      "stock_number": "JK02304",
+      "description": "Cardigan",
+      "size": "XL",
+      "image_url": "imgs2/download (29).jpeg",
+      "in_stock": 16,
+      "price": "15.99$"
+    },
+    {
+      "category": "bags",
+      "stock_number": "BG55005",
+      "description": "Suitcase",
+      "size": "One Size",
+      "image_url": "imgs2/download (31).jpeg",
+      "in_stock": 10,
+      "price": "54.99$"
+    }]
