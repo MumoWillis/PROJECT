@@ -101,3 +101,26 @@
   .add-to-cart-btn:hover {
     background-color: #45a049; 
   }
+
+  .card {
+    margin: 0;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color: #555; 
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+  
