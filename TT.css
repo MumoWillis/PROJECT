@@ -155,3 +155,6 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   background-color: #555; 
 }
+.col{
+  margin-bottom: 40px;
+}
