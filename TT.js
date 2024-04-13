@@ -36,3 +36,7 @@ parentDiv.appendChild('image');
 //appending each card to stock container
 stockContainer.appendChild(parentDiv);
 
+//Adding functionality to the add to cart button
+const addToCartBtn = document.getElementById('addToCartBtn').addEventListener('click', function() {
+    alert('Added to Cart');
+  });
