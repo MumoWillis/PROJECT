@@ -16,7 +16,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/MumoWillis/PROJECT
+http://127.0.0.1:5500/TT.html
 
 ## Technologies used
 HTML
