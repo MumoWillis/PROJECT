@@ -127,6 +127,8 @@
   }
   #text1{
     text-align: center;
+    color: #000;
+    text-decoration-line: underline;
   }
   .card2 {
     width: 385px;
@@ -147,4 +149,9 @@
 .card-content p {
     font-weight: bold;
     margin: 0;
+}
+.card2:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background-color: #555; 
 }
