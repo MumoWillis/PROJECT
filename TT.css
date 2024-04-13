@@ -112,6 +112,7 @@
     flex-direction: column;
     justify-content: space-between;
     height: 100%;
+    
   }
   .card:hover {
     transform: scale(1.05);
@@ -127,4 +128,23 @@
   #text1{
     text-align: center;
   }
+  .card2 {
+    width: 385px;
+    height: 285px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 1cm;
+    margin-left: 0.3cm;
+}
   
+.card-content {
+    padding: 50px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+  
+.card-content p {
+    font-weight: bold;
+    margin: 0;
+}
